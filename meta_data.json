@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "technical",
+        "2": "productivity"
+    },
+    "demo_page": "https://minimum-studio.bubbleapps.io/timezone",
+    "description": "Super lightweight plugin that simply returns the users current timezone and locale, according to their device.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1706923980311x605880388225954000/Current%20Timezone.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Current Timezone",
+    "plugin_instructions": "",
+    "sa_node_version": 18
+}
